@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TurnBattleSystem/Scenes/Menu.unity
+    guid: ade03ced30e1d474bba78ccb10ea89cf
+  - enabled: 1
+    path: Assets/TurnBattleSystem/Scenes/Game.unity
+    guid: c148f78900d5bee4ebbb8533ccb33202
+  m_configObjects: {}
