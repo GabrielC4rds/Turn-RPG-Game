@@ -1,0 +1,2434 @@
+fileFormatVersion: 2
+guid: 6e2c79378fe583745ac5ed65b060b218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7292092356538357996
+    second: BakugoSpriteUpdate_0
+  - first:
+      213: -277561050232626227
+    second: BakugoSpriteUpdate_1
+  - first:
+      213: -1768460663672667693
+    second: BakugoSpriteUpdate_2
+  - first:
+      213: 8090201337126152789
+    second: BakugoSpriteUpdate_3
+  - first:
+      213: -5758156995633125416
+    second: BakugoSpriteUpdate_4
+  - first:
+      213: -2417635834316543543
+    second: BakugoSpriteUpdate_5
+  - first:
+      213: -332064943028763223
+    second: BakugoSpriteUpdate_6
+  - first:
+      213: 630044127649260062
+    second: BakugoSpriteUpdate_7
+  - first:
+      213: 4305515987937496449
+    second: BakugoSpriteUpdate_8
+  - first:
+      213: -1521973948554769729
+    second: BakugoSpriteUpdate_9
+  - first:
+      213: -2216636108438175991
+    second: BakugoSpriteUpdate_10
+  - first:
+      213: -5639162429160334679
+    second: BakugoSpriteUpdate_11
+  - first:
+      213: -1849520035052409139
+    second: BakugoSpriteUpdate_12
+  - first:
+      213: 2414698054641377143
+    second: BakugoSpriteUpdate_13
+  - first:
+      213: 3314386815821411663
+    second: BakugoSpriteUpdate_14
+  - first:
+      213: 5867886411187143602
+    second: BakugoSpriteUpdate_15
+  - first:
+      213: 3079609439616241697
+    second: BakugoSpriteUpdate_16
+  - first:
+      213: -7391452519421586474
+    second: BakugoSpriteUpdate_17
+  - first:
+      213: 6584894587861512357
+    second: BakugoSpriteUpdate_18
+  - first:
+      213: -2352711204220886498
+    second: BakugoSpriteUpdate_19
+  - first:
+      213: -24309515635238498
+    second: BakugoSpriteUpdate_20
+  - first:
+      213: -6054346684076308828
+    second: BakugoSpriteUpdate_21
+  - first:
+      213: 6477106164708458746
+    second: BakugoSpriteUpdate_22
+  - first:
+      213: -1171554792823286767
+    second: BakugoSpriteUpdate_23
+  - first:
+      213: 3675056065959114757
+    second: BakugoSpriteUpdate_24
+  - first:
+      213: -3552636141960156289
+    second: BakugoSpriteUpdate_25
+  - first:
+      213: -8549155933012874291
+    second: BakugoSpriteUpdate_26
+  - first:
+      213: -2994718774198954787
+    second: BakugoSpriteUpdate_27
+  - first:
+      213: 957182223109362914
+    second: BakugoSpriteUpdate_28
+  - first:
+      213: -1092829874425333376
+    second: BakugoSpriteUpdate_29
+  - first:
+      213: -202398680400485594
+    second: BakugoSpriteUpdate_30
+  - first:
+      213: -486879174409986537
+    second: BakugoSpriteUpdate_31
+  - first:
+      213: 8055626345647997627
+    second: BakugoSpriteUpdate_32
+  - first:
+      213: 8848572994733404280
+    second: BakugoSpriteUpdate_33
+  - first:
+      213: 6988319034485940755
+    second: BakugoSpriteUpdate_34
+  - first:
+      213: -6716398233447532748
+    second: BakugoSpriteUpdate_35
+  - first:
+      213: -3447329861475622351
+    second: BakugoSpriteUpdate_36
+  - first:
+      213: -7476001580946716521
+    second: BakugoSpriteUpdate_37
+  - first:
+      213: -6146225220054292009
+    second: BakugoSpriteUpdate_38
+  - first:
+      213: 2737368419874286850
+    second: BakugoSpriteUpdate_39
+  - first:
+      213: 6428785606814992047
+    second: BakugoSpriteUpdate_40
+  - first:
+      213: -7863864483058907582
+    second: BakugoSpriteUpdate_41
+  - first:
+      213: -2413135043430271057
+    second: BakugoSpriteUpdate_42
+  - first:
+      213: 8358797269398827378
+    second: BakugoSpriteUpdate_43
+  - first:
+      213: 7995835086719696072
+    second: BakugoSpriteUpdate_44
+  - first:
+      213: 2491089444103250866
+    second: BakugoSpriteUpdate_45
+  - first:
+      213: -7503346926364410613
+    second: BakugoSpriteUpdate_46
+  - first:
+      213: 6844347074831408257
+    second: BakugoSpriteUpdate_47
+  - first:
+      213: 8921363989060332362
+    second: BakugoSpriteUpdate_48
+  - first:
+      213: 6297591570376256120
+    second: BakugoSpriteUpdate_49
+  - first:
+      213: 6753128929345710359
+    second: BakugoSpriteUpdate_50
+  - first:
+      213: 8153741934880089214
+    second: BakugoSpriteUpdate_51
+  - first:
+      213: 2329125922634088355
+    second: BakugoSpriteUpdate_52
+  - first:
+      213: 7444171243144865430
+    second: BakugoSpriteUpdate_53
+  - first:
+      213: -6374983506794873255
+    second: BakugoSpriteUpdate_54
+  - first:
+      213: 9158937019555611871
+    second: BakugoSpriteUpdate_55
+  - first:
+      213: 7160592613831534724
+    second: BakugoSpriteUpdate_56
+  - first:
+      213: 2018416980549173787
+    second: BakugoSpriteUpdate_57
+  - first:
+      213: 2297680321432970467
+    second: BakugoSpriteUpdate_58
+  - first:
+      213: -4969594789362489096
+    second: BakugoSpriteUpdate_59
+  - first:
+      213: 1046338142958367949
+    second: BakugoSpriteUpdate_60
+  - first:
+      213: 3498309048754434737
+    second: BakugoSpriteUpdate_61
+  - first:
+      213: -1064571724765720927
+    second: BakugoSpriteUpdate_62
+  - first:
+      213: -5063288627308581565
+    second: BakugoSpriteUpdate_63
+  - first:
+      213: -8081011291768035561
+    second: BakugoSpriteUpdate_64
+  - first:
+      213: -6801026594506485056
+    second: BakugoSpriteUpdate_65
+  - first:
+      213: -4966049964111627729
+    second: BakugoSpriteUpdate_66
+  - first:
+      213: -5152000645530248347
+    second: BakugoSpriteUpdate_67
+  - first:
+      213: -8387923866347117842
+    second: BakugoSpriteUpdate_68
+  - first:
+      213: 828562856967673946
+    second: BakugoSpriteUpdate_69
+  - first:
+      213: -1587985817373169036
+    second: BakugoSpriteUpdate_70
+  - first:
+      213: 6443551680833191311
+    second: BakugoSpriteUpdate_71
+  - first:
+      213: 4960245040591814853
+    second: BakugoSpriteUpdate_72
+  - first:
+      213: 8983501874870795772
+    second: BakugoSpriteUpdate_73
+  - first:
+      213: -8305574885820819556
+    second: BakugoSpriteUpdate_74
+  - first:
+      213: 6305612566267973625
+    second: BakugoSpriteUpdate_75
+  - first:
+      213: 4527110723449143365
+    second: BakugoSpriteUpdate_76
+  - first:
+      213: -2261375937827508286
+    second: BakugoSpriteUpdate_77
+  - first:
+      213: -2827051344475246834
+    second: BakugoSpriteUpdate_78
+  - first:
+      213: -4385796702434321783
+    second: BakugoSpriteUpdate_79
+  - first:
+      213: -3967152184340339688
+    second: BakugoSpriteUpdate_80
+  - first:
+      213: 8516371625660343577
+    second: BakugoSpriteUpdate_81
+  - first:
+      213: -4249421602161745868
+    second: BakugoSpriteUpdate_82
+  - first:
+      213: -8813582933684279706
+    second: BakugoSpriteUpdate_83
+  - first:
+      213: -6100155797287404594
+    second: BakugoSpriteUpdate_84
+  - first:
+      213: -2952793068039569113
+    second: BakugoSpriteUpdate_85
+  - first:
+      213: 7754537862896734520
+    second: BakugoSpriteUpdate_86
+  - first:
+      213: 1887392347681488218
+    second: BakugoSpriteUpdate_87
+  - first:
+      213: -1916454867763240047
+    second: BakugoSpriteUpdate_88
+  - first:
+      213: 8519573617953505545
+    second: BakugoSpriteUpdate_89
+  - first:
+      213: 5425231877228292940
+    second: BakugoSpriteUpdate_90
+  - first:
+      213: -2835010865691019755
+    second: BakugoSpriteUpdate_91
+  - first:
+      213: 989147915063076765
+    second: BakugoSpriteUpdate_92
+  - first:
+      213: -4914846626406036375
+    second: BakugoSpriteUpdate_93
+  - first:
+      213: 6820313714121472041
+    second: BakugoSpriteUpdate_94
+  - first:
+      213: 2947327470514876372
+    second: BakugoSpriteUpdate_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 459
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85fc4fc57b23560800000000000000
+      internalID: 7292092356538357996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 459
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3666502b7e52cf0800000000000000
+      internalID: -277561050232626227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 459
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10a86656a2577e0800000000000000
+      internalID: -1768460663672667693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 459
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6bcc904b264070800000000000000
+      internalID: 8090201337126152789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 459
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d76b5278bae610b0800000000000000
+      internalID: -5758156995633125416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ae439405d27ed0800000000000000
+      internalID: -2417635834316543543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 398
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5096491b4446bf0800000000000000
+      internalID: -332064943028763223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 398
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ea55cbcd5eb800800000000000000
+      internalID: 630044127649260062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d87cbbaf340cb30800000000000000
+      internalID: 4305515987937496449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 399
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8efee1ccd0eae0800000000000000
+      internalID: -1521973948554769729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 430
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ffc30243dec31e0800000000000000
+      internalID: -2216636108438175991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 402
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5b23f5abadb1b0800000000000000
+      internalID: -5639162429160334679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 403
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceabb9c35f2556e0800000000000000
+      internalID: -1849520035052409139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 403
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd9ba461bb28120800000000000000
+      internalID: 2414698054641377143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 404
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f545af311ffd20800000000000000
+      internalID: 3314386815821411663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 403
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c6210a9bee6150800000000000000
+      internalID: 5867886411187143602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 403
+        width: 30
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12014470878fcba20800000000000000
+      internalID: 3079609439616241697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 403
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d5bd58194c6990800000000000000
+      internalID: -7391452519421586474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 412
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b0e84dbe326b50800000000000000
+      internalID: 6584894587861512357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12255dff9d795fd0800000000000000
+      internalID: -2352711204220886498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 401
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9956e3df92a9aff0800000000000000
+      internalID: -24309515635238498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 377
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64194a4c3aafba0800000000000000
+      internalID: -6054346684076308828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 377
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c0f75dbd43e950800000000000000
+      internalID: 6477106164708458746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 351
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1149cd28f1dcdbfe0800000000000000
+      internalID: -1171554792823286767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 315
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508332d450c600330800000000000000
+      internalID: 3675056065959114757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 315
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b2046604082bec0800000000000000
+      internalID: -3552636141960156289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 315
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb285b69fb4b5980800000000000000
+      internalID: -8549155933012874291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 314
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49dad342f9076d0800000000000000
+      internalID: -2994718774198954787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 313
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e490c91928984d00800000000000000
+      internalID: 957182223109362914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 313
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08971fee40d75d0f0800000000000000
+      internalID: -1092829874425333376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 312
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a8b7f87fe03df0800000000000000
+      internalID: -202398680400485594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 350
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed1c078f14e39f0800000000000000
+      internalID: -486879174409986537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_32
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 316
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb280a71b755bcf60800000000000000
+      internalID: 8055626345647997627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 295
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f238c1427cca70800000000000000
+      internalID: 8848572994733404280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 295
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a2abd22f7bf060800000000000000
+      internalID: 6988319034485940755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 295
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377c45446f8ac2a0800000000000000
+      internalID: -6716398233447532748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 295
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132262771cf9820d0800000000000000
+      internalID: -3447329861475622351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7988963fb28ef3890800000000000000
+      internalID: -7476001580946716521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ed19f9b834baa0800000000000000
+      internalID: -6146225220054292009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 234
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20daafd13161df520800000000000000
+      internalID: 2737368419874286850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 232
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa60a5fb272a73950800000000000000
+      internalID: 6428785606814992047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 265
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246867dcae0fdd290800000000000000
+      internalID: -7863864483058907582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_42
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 267
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ba4d9672d28ed0800000000000000
+      internalID: -2413135043430271057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 268
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b50864d9600470800000000000000
+      internalID: 8358797269398827378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_44
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 267
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc388ac5a9e6fe60800000000000000
+      internalID: 7995835086719696072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 247
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ef7ba6a0229220800000000000000
+      internalID: 2491089444103250866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_46
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 239
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db78399b1ced790800000000000000
+      internalID: -7503346926364410613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 251
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5fc2d6610cfe50800000000000000
+      internalID: 6844347074831408257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 221
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b27e7d74d0fcb70800000000000000
+      internalID: 8921363989060332362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 219
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a65ccca2a856750800000000000000
+      internalID: 6297591570376256120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 206
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a01c4bfee7bd50800000000000000
+      internalID: 6753128929345710359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 206
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74ebb2e619e72170800000000000000
+      internalID: 8153741934880089214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af32c7bfa7b25020800000000000000
+      internalID: 2329125922634088355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 206
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e3d20e420f4760800000000000000
+      internalID: 7444171243144865430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7484d6428787a0800000000000000
+      internalID: -6374983506794873255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_55
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 191
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd489c271b41b1f70800000000000000
+      internalID: 9158937019555611871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e6b83b098f5360800000000000000
+      internalID: 7160592613831534724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 139
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12004ebc8bd20c10800000000000000
+      internalID: 2018416980549173787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 139
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ea66241003ef10800000000000000
+      internalID: 2297680321432970467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_59
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 146
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8aa6e7ed3780bb0800000000000000
+      internalID: -4969594789362489096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b9fd4ff6558e00800000000000000
+      internalID: 1046338142958367949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_61
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 147
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fa858b8d7c8030800000000000000
+      internalID: 3498309048754434737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 108
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0a6b18a1e931f0800000000000000
+      internalID: -1064571724765720927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d2ff5e1d59bb9b0800000000000000
+      internalID: -5063288627308581565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ee309b0b7adf80800000000000000
+      internalID: -8081011291768035561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d47e7856ed91a0800000000000000
+      internalID: -6801026594506485056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af8407edb051bb0800000000000000
+      internalID: -4966049964111627729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_67
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 108
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b169895ba6088b0800000000000000
+      internalID: -5152000645530248347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_68
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2eb574fab189b80800000000000000
+      internalID: -8387923866347117842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 108
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5814ab4785af7b00800000000000000
+      internalID: 828562856967673946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_70
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a2d17005756f9e0800000000000000
+      internalID: -1587985817373169036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 108
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dfee34d181c6950800000000000000
+      internalID: 6443551680833191311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c04e5b759456d440800000000000000
+      internalID: 4960245040591814853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdbabacb5fcbac70800000000000000
+      internalID: 8983501874870795772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 33
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979e3b65abacbc80800000000000000
+      internalID: -8305574885820819556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff44af6839028750800000000000000
+      internalID: 6305612566267973625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404c02a73783de30800000000000000
+      internalID: 4527110723449143365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfec2ad09afd90e0800000000000000
+      internalID: -2261375937827508286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_78
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 52
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f23c2d7cb44c8d0800000000000000
+      internalID: -2827051344475246834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 39
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9256d2258223c0800000000000000
+      internalID: -4385796702434321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_80
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 42
+        width: 49
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814aa727b18d1f8c0800000000000000
+      internalID: -3967152184340339688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_81
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 39
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91563b23fda303670800000000000000
+      internalID: 8516371625660343577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_82
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 39
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430274631950705c0800000000000000
+      internalID: -4249421602161745868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 39
+        width: 51
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ad47a40ddfa580800000000000000
+      internalID: -8813582933684279706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf4245f94e75ba0800000000000000
+      internalID: -6100155797287404594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721044469529507d0800000000000000
+      internalID: -2952793068039569113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831d64bd917ad9b60800000000000000
+      internalID: 7754537862896734520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7853275d513a10800000000000000
+      internalID: 1887392347681488218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 13
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19367ea93726765e0800000000000000
+      internalID: -1916454867763240047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 13
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90188ef111b9b3670800000000000000
+      internalID: 8519573617953505545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_90
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6152f5ab4a4b40800000000000000
+      internalID: 5425231877228292940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163d1063a408a8d0800000000000000
+      internalID: -2835010865691019755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_92
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9727abb9c82abd00800000000000000
+      internalID: 989147915063076765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_93
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 13
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c8a838805facbb0800000000000000
+      internalID: -4914846626406036375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 13
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287feaff2f96ae50800000000000000
+      internalID: 6820313714121472041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakugoSpriteUpdate_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2ac408b207e820800000000000000
+      internalID: 2947327470514876372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7eb44bea1efc68a4cb3f64dd1604b9a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
