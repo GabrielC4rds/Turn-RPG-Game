@@ -26,6 +26,7 @@ public class BattleHandler : MonoBehaviour {
     private CharacterBattle activeCharacterBattle;
     private State state;
     public Transform characterTransform;
+    public int manaCount;
 
     private enum State {
         WaitingForPlayer,
@@ -49,6 +50,7 @@ public class BattleHandler : MonoBehaviour {
             if (startedBattle) {
                 state = State.Busy;
                 playerCharacterBattle.Attack(enemyCharacterBattle, () => {
+                    manaCount += 10;
                     ChooseNextActiveCharacter();
                 });
             }
